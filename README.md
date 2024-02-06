@@ -24,11 +24,15 @@ Develop a Streamlit user interface for interactive visualization.
 
 
 
-Machine Learning: is a field of artificial intelligence (AI) that focuses on the development of algorithms and models that enable computers to learn from and make predictions or decisions based on data. 
+Machine Learning :Streamlit is a Python library for creating web apps for machine learning and data science projects.
 
 Visualization: Matplotlib  will be used to create informative visualizations. This will include line charts  to make complex data more accessible.
 
 Pandas Data Analysis: Pandas will be utilized for data cleaning, manipulation, and statistical analysis to answer research questions and provide relevant insights.
+
+DART (Dynamic Animation and Robotics Toolkit) is a library for simulating articulated rigid body dynamics and control.
+
+PyGecko is a Python library for developing control systems
 
 
 
