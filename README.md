@@ -31,7 +31,7 @@ Visualization: Matplotlib  will be used to create informative visualizations. Th
 Pandas Data Analysis: Pandas will be utilized for data cleaning, manipulation, and statistical analysis to answer research questions and provide relevant insights.
 
 
-![image](https://github.com/johnmessing/Project_2/assets/142201551/3e9a4ccb-05d9-4aa9-902b-a0593d602e5c)
+
 
 
 ​
