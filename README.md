@@ -67,8 +67,7 @@ pip install pygecko
 ## Usage
 ​
 In the majority of cases, the end user of an application is not a person who has knowledge in the programming area. This is why developing an analysis tool with an easy-to-use interface is so crucial.
-The objective of the Bit Prfot is to make accessible financial analysis for people who are not versed in the programming area but have knowledge in the financial field.
-The use of Yahoo Finance gives the application an always 'up-to-date' information data source, which serves as a future-proofs design.
+The objective of the SJTM Forecaster is to make accessible financial analysis for people who are not versed in the programming area but have knowledge in the financial field.
 
 ## Acknowledgments
 ​
