@@ -63,8 +63,6 @@ To run the aplication imput the following comand in the console:
 
 Make sure that you are in the folder in which the app is located.
 
-
-​
 ## Usage
 ​
 In the majority of cases, the end user of an application is not a person who has knowledge in the programming area. This is why developing an analysis tool with an easy-to-use interface is so crucial.
