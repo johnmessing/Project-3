@@ -26,7 +26,7 @@ Develop a Streamlit user interface for interactive visualization.
 
 Machine Learning :Streamlit is a Python library for creating web apps for machine learning and data science projects.
 
-Visualization: Matplotlib  will be used to create informative visualizations. This will include line charts  to make complex data more accessible.
+Visualization: Plotly: This library is used for creating interactive visualizations.
 
 Pandas Data Analysis: Pandas will be utilized for data cleaning, manipulation, and statistical analysis to answer research questions and provide relevant insights.
 
@@ -51,15 +51,13 @@ Python (v3.6 or higher)
 ​
 Necessary dependencies:
 ​
-- ​npm install 
-- pip install matplotlib
-- pip install pandas
-- pip install pathlib
-- pip install mplfinance
-- pip install numpy
-- conda install -c dartsim dart
-- pip install streamlit
-- pip install pygecko
+pip install streamlit
+pip install pycoingecko
+pip install pandas
+pip install plotly
+pip install Pillow
+pip install u8darts
+
 
 ​
 ## Usage
