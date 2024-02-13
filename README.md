@@ -71,4 +71,5 @@ In the majority of cases, the end user of an application is not a person who has
 The objective of the SJTM Forecaster is to make accessible financial analysis for people who are not versed in the programming area but have knowledge in the financial field.
 
 ## Acknowledgments
+# Our Lord and Savior Stack Overflow
 ​
