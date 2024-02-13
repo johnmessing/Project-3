@@ -30,9 +30,10 @@ Visualization: Matplotlib  will be used to create informative visualizations. Th
 
 Pandas Data Analysis: Pandas will be utilized for data cleaning, manipulation, and statistical analysis to answer research questions and provide relevant insights.
 
-DART (Dynamic Animation and Robotics Toolkit) is a library for simulating articulated rigid body dynamics and control.
+DARTS Prophet Model (Dynamic Animation and Robotics Toolkit) is a library for simulating articulated rigid body dynamics and control.
 
 PyGecko is a Python library for developing control systems
+
 
 
 
