@@ -51,12 +51,12 @@ Python (v3.6 or higher)
 ​
 Necessary dependencies:
 ​
-pip install streamlit
-pip install pycoingecko
-pip install pandas
-pip install plotly
-pip install Pillow
-pip install u8darts
+- pip install streamlit
+- pip install pycoingecko
+- pip install pandas
+- pip install plotly
+- pip install Pillow
+- pip install u8darts
 
 
 ​
