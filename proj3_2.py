@@ -74,7 +74,7 @@ df.interpolate(method='linear', inplace=True)
 
 # Forecasting
 def forecast_data(data, periods):
-    data = data.iloc[-90:]
+    data = data.iloc[-180:]
     data = data.sort_index()
     series = TimeSeries.from_dataframe(data, fill_missing_dates=False, freq='D')
     model = Prophet()
