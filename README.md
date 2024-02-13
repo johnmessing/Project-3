@@ -40,9 +40,9 @@ PyGecko is a Python library for developing control systems
 
 
 ​
-## Getting Started
+# Getting Started
 ​
-Explain how to get your project up and running on the user's local machine.
+## To test and run this code on your local machine you will need to meet the following requirements:
 ​
 ### Prerequisites
 ​​
@@ -59,7 +59,7 @@ pip install matplotlib
 pip install pandas
 pip install pathlib
 pip install mplfinance
- pip install numpy
+pip install numpy
 conda install -c dartsim dart
 pip install streamlit
 pip install pygecko
