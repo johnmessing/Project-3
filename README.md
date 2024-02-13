@@ -41,7 +41,6 @@ PyGecko is a Python library for developing control systems
 
 ​
 # Getting Started
-​
 ## To test and run this code on your local machine you will need to meet the following requirements:
 ​
 ### Prerequisites
