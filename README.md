@@ -58,6 +58,11 @@ Necessary dependencies:
 - pip install Pillow
 - pip install u8darts
 
+To run the aplication imput the following comand in the console:
+- streamlit run (app name).py
+
+Make sure that you are in the folder in which the app is located.
+
 
 ​
 ## Usage
