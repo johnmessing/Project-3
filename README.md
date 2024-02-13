@@ -51,15 +51,15 @@ Python (v3.6 or higher)
 ​
 Necessary dependencies:
 ​
-​npm install 
-pip install matplotlib
-pip install pandas
-pip install pathlib
-pip install mplfinance
-pip install numpy
-conda install -c dartsim dart
-pip install streamlit
-pip install pygecko
+- ​npm install 
+- pip install matplotlib
+- pip install pandas
+- pip install pathlib
+- pip install mplfinance
+- pip install numpy
+- conda install -c dartsim dart
+- pip install streamlit
+- pip install pygecko
 
 ​
 ## Usage
